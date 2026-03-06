@@ -1,0 +1,1006 @@
+[
+  {
+    "name": "ZIPPER-TURC/1044 SM",
+    "cost": 85.35
+  },
+  {
+    "name": "ZIPPER-TURC/1033SMC",
+    "cost": 93.95
+  },
+  {
+    "name": "ZIPPER CHINA PEE-A13(4000M)",
+    "cost": 76.0
+  },
+  {
+    "name": "ZIPPER CHINA PE-B12(3000M)/SLIDER",
+    "cost": 105.0
+  },
+  {
+    "name": "ZIPPER CHINA PE-A19(2000M)",
+    "cost": 72.8
+  },
+  {
+    "name": "ZIPPER CHINA PE/A19(2500M)",
+    "cost": 87.5
+  },
+  {
+    "name": "YELLOW-SURFACE",
+    "cost": 5.32
+  },
+  {
+    "name": "YELLOW-PVC 15",
+    "cost": 5.5
+  },
+  {
+    "name": "YELLOW-PET-HL",
+    "cost": 5.5
+  },
+  {
+    "name": "YELLOW-031 REVERSE 15",
+    "cost": 4.35
+  },
+  {
+    "name": "YELLOW/INTERSTATE-PET 15",
+    "cost": 5.4
+  },
+  {
+    "name": "WHITE-SURFACE",
+    "cost": 3.8
+  },
+  {
+    "name": "WHITE-REVERSE 20",
+    "cost": 3.8
+  },
+  {
+    "name": "WHITE-PVC 20",
+    "cost": 4.4
+  },
+  {
+    "name": "WHITE-MASTER-BATCH",
+    "cost": 2.8
+  },
+  {
+    "name": "WHITE/INTERSTATE-PET",
+    "cost": 4.85
+  },
+  {
+    "name": "WAX-COMPOUND15-REVERSE",
+    "cost": 5.8
+  },
+  {
+    "name": "WARM-RED-PVC 15",
+    "cost": 5.7
+  },
+  {
+    "name": "WARM-RED/REVERSE 15",
+    "cost": 4.5
+  },
+  {
+    "name": "WARM-RED/INTERSTATE-PET 15",
+    "cost": 5.4
+  },
+  {
+    "name": "WARM RED-PET-HL",
+    "cost": 5.9
+  },
+  {
+    "name": "VIOLET-PVC 15",
+    "cost": 7.2
+  },
+  {
+    "name": "VIOLET-PET-HL",
+    "cost": 11.95
+  },
+  {
+    "name": "VIOLET/REVERSE 15",
+    "cost": 7.8
+  },
+  {
+    "name": "VIOLET/INTERSTATE-PET 15",
+    "cost": 8.6
+  },
+  {
+    "name": "VARNISH-TOYO",
+    "cost": 4.8
+  },
+  {
+    "name": "SUN CHEMICAL WHITE 93F",
+    "cost": 3.95
+  },
+  {
+    "name": "SUN CHEMICAL VARNISH-MATT",
+    "cost": 5.45
+  },
+  {
+    "name": "SUN CHEMICAL VARNISH-HARDNER",
+    "cost": 5.75
+  },
+  {
+    "name": "SUN CHEMICAL ADHESIOM PROMOTER",
+    "cost": 7.875
+  },
+  {
+    "name": "STRETCH-FILM",
+    "cost": 24.0
+  },
+  {
+    "name": "SOLVENT /THINNER/194",
+    "cost": 1.45
+  },
+  {
+    "name": "SOLVENT /THINNER/165",
+    "cost": 1.55
+  },
+  {
+    "name": "SOLVENT /METHOXY-PROPANOL-190-GS",
+    "cost": 1.85
+  },
+  {
+    "name": "SOLVENT /METHOXY-PROPANOL-190",
+    "cost": 2.062
+  },
+  {
+    "name": "SOLVENT /ISO-PROPYL",
+    "cost": 2.1
+  },
+  {
+    "name": "SOLIMAX-FLEXO-WARM RED-RESISTANT",
+    "cost": 15.0
+  },
+  {
+    "name": "SOLIMAX-FLEXO-VIOLET",
+    "cost": 14.25
+  },
+  {
+    "name": "SOLIMAX-FLEXO-RED-RESISTANT",
+    "cost": 8.95
+  },
+  {
+    "name": "SOLIMAX-FLEXO-PBLUE REFLEX RESIS",
+    "cost": 9.25
+  },
+  {
+    "name": "SOLIMAX-FLEXO/WHITE 25",
+    "cost": 5.25
+  },
+  {
+    "name": "SOLIMAX-FLEXO/VARNISH 20",
+    "cost": 4.25
+  },
+  {
+    "name": "SOLIMAX-FLEXO/P.YELLOW 20",
+    "cost": 5.85
+  },
+  {
+    "name": "SOLIMAX-FLEXO/P.BLACK",
+    "cost": 6.15
+  },
+  {
+    "name": "SOLIMAX-FLEXO/MAGENTA 20",
+    "cost": 6.3
+  },
+  {
+    "name": "SOLIMAX-FLEXO/CYAN (P.BLUE)",
+    "cost": 6.85
+  },
+  {
+    "name": "SOLIMAX-FLEXO YELLOW RESISTANT",
+    "cost": 9.4
+  },
+  {
+    "name": "SLIDER/30000P-RED",
+    "cost": 105.0
+  },
+  {
+    "name": "SLIDER/30000P-ORANGE",
+    "cost": 105.0
+  },
+  {
+    "name": "SLIDER/30000P-BLUE",
+    "cost": 105.0
+  },
+  {
+    "name": "SLIDER/30000P WHITE",
+    "cost": 105.0
+  },
+  {
+    "name": "SLIDER CHINA",
+    "cost": 280.0
+  },
+  {
+    "name": "SILVER-REVERSE/15",
+    "cost": 6.9
+  },
+  {
+    "name": "SILVER-PVC",
+    "cost": 6.7
+  },
+  {
+    "name": "SEALING-TAPE/SECURE",
+    "cost": 100.0
+  },
+  {
+    "name": "SEALING-TAPE",
+    "cost": 49.5
+  },
+  {
+    "name": "SCREEN-YELLOW/15 REVERSE",
+    "cost": 5.4
+  },
+  {
+    "name": "SCREEN-MAGENTA/15 REVERSE",
+    "cost": 5.2
+  },
+  {
+    "name": "SCREEN-CYAN/15 REVERSE",
+    "cost": 5.65
+  },
+  {
+    "name": "SCREEN-BLACK/15 REVERSE",
+    "cost": 4.9
+  },
+  {
+    "name": "SCOTCH CLICH\u00c9",
+    "cost": 44.0
+  },
+  {
+    "name": "SCOTCH",
+    "cost": 2.5214285714285714
+  },
+  {
+    "name": "RHODAMIN-RED/15-REVERSE",
+    "cost": 10.95
+  },
+  {
+    "name": "RESINE-LLDPE- 1001",
+    "cost": 1.16
+  },
+  {
+    "name": "RESINE-LDPE- 352E",
+    "cost": 1.3
+  },
+  {
+    "name": "RESINE-LDPE- 100",
+    "cost": 1.28
+  },
+  {
+    "name": "RESINE-EXACT3237",
+    "cost": 1.25
+  },
+  {
+    "name": "RESINE-ENABLE2010 B25",
+    "cost": 1.28
+  },
+  {
+    "name": "RESINE-ENABLE2010",
+    "cost": 1.27
+  },
+  {
+    "name": "RED-MARLBORO-REVERSE",
+    "cost": 4.4
+  },
+  {
+    "name": "RED-MARLBORO-PVC 15",
+    "cost": 5.9
+  },
+  {
+    "name": "RED-MARLBORO-PET-HL",
+    "cost": 6.4
+  },
+  {
+    "name": "RED-MARLBORO/SURFACE",
+    "cost": 4.8
+  },
+  {
+    "name": "RED-MARLBORO/INTERSTATE-PET 15",
+    "cost": 5.5
+  },
+  {
+    "name": "PVDC 14",
+    "cost": 2.8023809523809518
+  },
+  {
+    "name": "PVC GLUE",
+    "cost": 10.8125
+  },
+  {
+    "name": "PVC 60 CHINA",
+    "cost": 2.83
+  },
+  {
+    "name": "PVC 50 CHINA",
+    "cost": 2.481428571428571
+  },
+  {
+    "name": "PVC 40 CHINA",
+    "cost": 2.050740740740741
+  },
+  {
+    "name": "PPA-21 BAGS",
+    "cost": 3.26
+  },
+  {
+    "name": "PP30/ALU9/PET12/PE140 (191)",
+    "cost": 3.8
+  },
+  {
+    "name": "PETMET12/PE70 (82)",
+    "cost": 3.0
+  },
+  {
+    "name": "PETMET12/PE60 (72)",
+    "cost": 3.0
+  },
+  {
+    "name": "PET12/PE90(EVOH)102",
+    "cost": 2.5
+  },
+  {
+    "name": "PET12/PE70 (82)",
+    "cost": 2.5
+  },
+  {
+    "name": "PET12/PE60 (72)",
+    "cost": 2.5
+  },
+  {
+    "name": "PET12/PE100 (112)",
+    "cost": 2.5
+  },
+  {
+    "name": "PET12/ALU9/PET12/PE140 (173)",
+    "cost": 3.8
+  },
+  {
+    "name": "PET12/ALU9/PE80 (101)",
+    "cost": 3.8
+  },
+  {
+    "name": "PET SHRINK 50",
+    "cost": 2.47
+  },
+  {
+    "name": "PET SHRINK 45",
+    "cost": 2.5999999999999996
+  },
+  {
+    "name": "PET MET 12",
+    "cost": 1.9355555555555546
+  },
+  {
+    "name": "PET MATT 12",
+    "cost": 1.83
+  },
+  {
+    "name": "PET HVB",
+    "cost": 8.27
+  },
+  {
+    "name": "PET 9",
+    "cost": 1.61
+  },
+  {
+    "name": "PET 25",
+    "cost": 1.59
+  },
+  {
+    "name": "PET 23 /TWIST",
+    "cost": 1.92
+  },
+  {
+    "name": "PET 12 SUPER-MATT",
+    "cost": 1.904117647058823
+  },
+  {
+    "name": "PET 12",
+    "cost": 1.5791408450704232
+  },
+  {
+    "name": "PER 30",
+    "cost": 2.49
+  },
+  {
+    "name": "PER 20",
+    "cost": 2.455517241379311
+  },
+  {
+    "name": "PE-PURGE",
+    "cost": 4.5
+  },
+  {
+    "name": "PE WIPES 70",
+    "cost": 3.06
+  },
+  {
+    "name": "PE WIPES 60",
+    "cost": 2.546666666666667
+  },
+  {
+    "name": "PE WHITE EASYPEEL 80",
+    "cost": 1.91
+  },
+  {
+    "name": "PE WHITE EASYPEEL 60",
+    "cost": 2.512857142857143
+  },
+  {
+    "name": "PE WHITE EASYPEEL 50",
+    "cost": 2.17
+  },
+  {
+    "name": "PE WHITE 65",
+    "cost": 1.7
+  },
+  {
+    "name": "PE WHITE 60",
+    "cost": 2.0909090909090904
+  },
+  {
+    "name": "PE EASYPEAL 60",
+    "cost": 2.45
+  },
+  {
+    "name": "PE EASYPEAL 150",
+    "cost": 2.1
+  },
+  {
+    "name": "PE 90 WHITE",
+    "cost": 1.7
+  },
+  {
+    "name": "PE 90 EVOH",
+    "cost": 2.73
+  },
+  {
+    "name": "PE 90",
+    "cost": 1.6500000000000001
+  },
+  {
+    "name": "PE 80 WHITE",
+    "cost": 1.7
+  },
+  {
+    "name": "PE 80",
+    "cost": 1.6457142857142857
+  },
+  {
+    "name": "PE 70 WHITE",
+    "cost": 1.7
+  },
+  {
+    "name": "PE 70",
+    "cost": 1.6500000000000001
+  },
+  {
+    "name": "PE 65",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 60",
+    "cost": 1.7071428571428569
+  },
+  {
+    "name": "PE 50",
+    "cost": 1.6499999999999997
+  },
+  {
+    "name": "PE 165",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 140 WHITE",
+    "cost": 1.7
+  },
+  {
+    "name": "PE 110 WHITE",
+    "cost": 1.7
+  },
+  {
+    "name": "PE 100 WHITE",
+    "cost": 1.7
+  },
+  {
+    "name": "PE 100",
+    "cost": 1.6472727272727274
+  },
+  {
+    "name": "PE 110",
+    "cost": 1.65
+  },
+  {
+    "name": "PAPIER60-PE20",
+    "cost": 2.24
+  },
+  {
+    "name": "PAPIER50-PE15",
+    "cost": 2.24
+  },
+  {
+    "name": "PA80/PE90(170)WHITE",
+    "cost": 3.5
+  },
+  {
+    "name": "PA20/PE90 (110) WHITE",
+    "cost": 3.5
+  },
+  {
+    "name": "PA20/PE70 (90) WHITE",
+    "cost": 3.5
+  },
+  {
+    "name": "PA20/PE70 (90)",
+    "cost": 3.5
+  },
+  {
+    "name": "PA20/PE120 (140)",
+    "cost": 3.5
+  },
+  {
+    "name": "PA20/PE100 (120)",
+    "cost": 3.5
+  },
+  {
+    "name": "PA/PE 250 WHITE",
+    "cost": 4.57
+  },
+  {
+    "name": "PA/PE 180",
+    "cost": 4.67
+  },
+  {
+    "name": "MET 30",
+    "cost": 1.7371428571428578
+  },
+  {
+    "name": "MET 20",
+    "cost": 1.6451999999999996
+  },
+  {
+    "name": "MET 18",
+    "cost": 2.2
+  },
+  {
+    "name": "MAZOUT",
+    "cost": 0.695
+  },
+  {
+    "name": "MAGENTA-TOYO",
+    "cost": 6.0
+  },
+  {
+    "name": "MAGENTA-SURFACE",
+    "cost": 5.65
+  },
+  {
+    "name": "MAGENTA-PVC 15",
+    "cost": 5.5
+  },
+  {
+    "name": "MAGENTA-PET-HL",
+    "cost": 8.05
+  },
+  {
+    "name": "KB/ALU/PE 30",
+    "cost": 3.88
+  },
+  {
+    "name": "KB/ALU",
+    "cost": 3.97
+  },
+  {
+    "name": "INK-YELLOW/ROTO",
+    "cost": 5.03
+  },
+  {
+    "name": "INK-WHITE/ROTO",
+    "cost": 4.3
+  },
+  {
+    "name": "INK-WHITE 060HCL PP/ROTO",
+    "cost": 3.65
+  },
+  {
+    "name": "INK-WARM RED/ROTO",
+    "cost": 5.5
+  },
+  {
+    "name": "INK-VIOLET/ROTO",
+    "cost": 8.1
+  },
+  {
+    "name": "INK-VARNISH/ROTO",
+    "cost": 3.8
+  },
+  {
+    "name": "INK-SILVER/ROTO",
+    "cost": 7.6
+  },
+  {
+    "name": "INK-RED MALBORO/ROTO",
+    "cost": 5.4
+  },
+  {
+    "name": "INK-MAGENTA/ROTO",
+    "cost": 5.3
+  },
+  {
+    "name": "INK-GOLD/ROTO",
+    "cost": 6.6
+  },
+  {
+    "name": "INK-CYAN/ROTO",
+    "cost": 5.5
+  },
+  {
+    "name": "INK-BLUE099/ROTO",
+    "cost": 7.8
+  },
+  {
+    "name": "INK-BLUE090/ROTO",
+    "cost": 7.8
+  },
+  {
+    "name": "INK-BLACK/ROTO",
+    "cost": 4.8
+  },
+  {
+    "name": "HHR052-OVERPOINT-VARNISH-SURFACE",
+    "cost": 3.8
+  },
+  {
+    "name": "GOLD-REVERSE",
+    "cost": 6.2
+  },
+  {
+    "name": "GOLD-PVC 15",
+    "cost": 7.8
+  },
+  {
+    "name": "ELASTIC-MOUSSE0.55-685X25",
+    "cost": 374.9
+  },
+  {
+    "name": "ELASTIC-MOUSSE0.55-456X25",
+    "cost": 249.94
+  },
+  {
+    "name": "ELASTIC-BIESSE20300/68.5",
+    "cost": 450.0
+  },
+  {
+    "name": "ELASTIC-BIESSE20300 45.7CM",
+    "cost": 293.705
+  },
+  {
+    "name": "ELASTIC-BIESSE20300 33CM",
+    "cost": 214.27
+  },
+  {
+    "name": "ELASTIC-BIESSE20275 68.5CM",
+    "cost": 432.0
+  },
+  {
+    "name": "ELASTIC-BIESSE20250 45.7CM",
+    "cost": 291.4575
+  },
+  {
+    "name": "ELASTIC-BIESSE20250 34CM",
+    "cost": 214.27
+  },
+  {
+    "name": "ELASTIC-BIESSE20200 45.7",
+    "cost": 287.71
+  },
+  {
+    "name": "ELASTIC-BIESSE20150 45.7CM",
+    "cost": 287.71
+  },
+  {
+    "name": "ELASTIC",
+    "cost": 3.28
+  },
+  {
+    "name": "DR-BLADES",
+    "cost": 544.6666666666666
+  },
+  {
+    "name": "CYAN-TOYO",
+    "cost": 6.1
+  },
+  {
+    "name": "CYAN-SURFACE",
+    "cost": 5.8
+  },
+  {
+    "name": "CYAN-PVC 15",
+    "cost": 5.33
+  },
+  {
+    "name": "CYAN/INTERSTATE-PET",
+    "cost": 5.65
+  },
+  {
+    "name": "CPP 40",
+    "cost": 1.55
+  },
+  {
+    "name": "CPP 35",
+    "cost": 1.5
+  },
+  {
+    "name": "CPP 30",
+    "cost": 1.5
+  },
+  {
+    "name": "CPA 80",
+    "cost": 6.09
+  },
+  {
+    "name": "CPA 20",
+    "cost": 5.300645161290323
+  },
+  {
+    "name": "PA/PE COEX 90",
+    "cost": 3.03
+  },
+  {
+    "name": "PA/PE COEX 70",
+    "cost": 3.5
+  },
+  {
+    "name": "CMET 30",
+    "cost": 1.7449999999999999
+  },
+  {
+    "name": "CMET 20",
+    "cost": 1.7178125000000002
+  },
+  {
+    "name": "CECRONIL 15 HSE",
+    "cost": 3.7999999999999994
+  },
+  {
+    "name": "CARTOON",
+    "cost": 1.0757142857142858
+  },
+  {
+    "name": "BOPP MATT 20",
+    "cost": 1.93
+  },
+  {
+    "name": "BOPP MATT 15",
+    "cost": 2.0
+  },
+  {
+    "name": "BOPP 40",
+    "cost": 1.5
+  },
+  {
+    "name": "BOPP 38 WHITE LABEL",
+    "cost": 2.793333333333333
+  },
+  {
+    "name": "BOPP 35",
+    "cost": 2.2933333333333334
+  },
+  {
+    "name": "BOPP 30(CRYSTAL)",
+    "cost": 1.99
+  },
+  {
+    "name": "BOPP 30 ANTIFOG",
+    "cost": 2.0035294117647062
+  },
+  {
+    "name": "BOPP 30",
+    "cost": 1.7852307692307678
+  },
+  {
+    "name": "BOPP 25",
+    "cost": 1.9066666666666665
+  },
+  {
+    "name": "BOPP 20",
+    "cost": 1.7163013698630152
+  },
+  {
+    "name": "BOPP 18",
+    "cost": 1.93
+  },
+  {
+    "name": "BOPP 15 NON SEALABLE",
+    "cost": 1.9799999999999998
+  },
+  {
+    "name": "BOPP 15",
+    "cost": 1.8299999999999998
+  },
+  {
+    "name": "BLUE-99-REVERSE",
+    "cost": 6.8
+  },
+  {
+    "name": "BLUE-99-PVC",
+    "cost": 7.66
+  },
+  {
+    "name": "BLUE-99/SURFACE",
+    "cost": 6.8
+  },
+  {
+    "name": "BLUE099-PET-HL",
+    "cost": 8.2
+  },
+  {
+    "name": "BLUE-099/INTERSTATE-PET",
+    "cost": 7.8
+  },
+  {
+    "name": "BLUE-072/INTERSTATE-PET",
+    "cost": 7.79
+  },
+  {
+    "name": "BLACK-TOYO",
+    "cost": 5.8
+  },
+  {
+    "name": "BLACK-SURFACE",
+    "cost": 4.3
+  },
+  {
+    "name": "BLACK-PVC 15",
+    "cost": 5.06
+  },
+  {
+    "name": "BLACK-070-REVERSE",
+    "cost": 4.28
+  },
+  {
+    "name": "ANTIOXIDANT 10886",
+    "cost": 9.0
+  },
+  {
+    "name": "ALU 9",
+    "cost": 3.7422352941176467
+  },
+  {
+    "name": "ALU9/PET12/PE70 (91)",
+    "cost": 3.8
+  },
+  {
+    "name": "ALU9/PET12/PE100(121)",
+    "cost": 3.8
+  },
+  {
+    "name": "ALU9/PE90 (99)",
+    "cost": 3.8
+  },
+  {
+    "name": "ALU9/PE70 (79)",
+    "cost": 3.8
+  },
+  {
+    "name": "ALU9/PE100 (109)",
+    "cost": 3.8
+  },
+  {
+    "name": "ALU GR",
+    "cost": 3.59
+  },
+  {
+    "name": "ADHESION-SOLUTION/15-REVERSE",
+    "cost": 10.5
+  },
+  {
+    "name": "ADHESION-PROMOTER/15 REVERSE",
+    "cost": 4.86
+  },
+  {
+    "name": "60-SHRINK-PE",
+    "cost": 2.2
+  },
+  {
+    "name": "14-CORE 2500-2040",
+    "cost": 6.84
+  },
+  {
+    "name": "14-CORE 2500-1930",
+    "cost": 6.5
+  },
+  {
+    "name": "14-CORE 2500-1850",
+    "cost": 6.22
+  },
+  {
+    "name": "10-CORE 1400-2040",
+    "cost": 4.11
+  },
+  {
+    "name": "10-CORE 1400-1930",
+    "cost": 3.93
+  },
+  {
+    "name": "10-CORE 1400-1850",
+    "cost": 3.71
+  },
+  {
+    "name": "SUN CHEMICALLC OVERPOINT LAQWER",
+    "cost": 4.67
+  },
+  {
+    "name": "SOLVENT /ETHYL-ACETAT/180     (F2)",
+    "cost": 1.384
+  },
+  {
+    "name": "LAMINATION-ADH",
+    "cost": 3.86
+  },
+  {
+    "name": "PE 120",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 112",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 55",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 64",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 75",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 130",
+    "cost": 1.65
+  },
+  {
+    "name": "PE 170",
+    "cost": 1.65
+  },
+  {
+    "name": "PE SHRINK 60",
+    "cost": 2.2
+  },
+  {
+    "name": "PE EVOH 90",
+    "cost": 2.73
+  },
+  {
+    "name": "PE 34",
+    "cost": 1.65
+  },
+  {
+    "name": "PET 15",
+    "cost": 1.37
+  },
+  {
+    "name": "CPP 22",
+    "cost": 1.231
+  },
+  {
+    "name": "CPP 25",
+    "cost": 1.231
+  },
+  {
+    "name": "CPP 28",
+    "cost": 1.231
+  },
+  {
+    "name": "CPP 29",
+    "cost": 1.231
+  },
+  {
+    "name": "CPP 33",
+    "cost": 1.231
+  },
+  {
+    "name": "CPP 38",
+    "cost": 1.231
+  }
+]
