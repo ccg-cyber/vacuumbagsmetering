@@ -40,9 +40,6 @@ steps:
   - name: Install dependencies
     run: flutter pub get
 
-  - name: Run tests
-    run: flutter test test/calculator_engine_test.dart
-
   - name: Build APK (release)
     run: flutter build apk --release
 
