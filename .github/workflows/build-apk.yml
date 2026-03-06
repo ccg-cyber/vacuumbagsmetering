@@ -1,47 +1,50 @@
-name: ci_vb_metering
-description: Ci™ Metering Support — Vacuum Bags SARL | Powered by CCG
-publish_to: 'none'
-version: 2.1.0+1
+name: Build Android APK
 
-environment:
-  sdk: '>=3.0.0 <4.0.0'
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
 
-dependencies:
-  flutter:
-    sdk: flutter
-  flutter_riverpod: ^2.4.9
-  riverpod_annotation: ^2.3.3
-  hive_flutter: ^1.1.0
-  hive: ^2.2.3
-  path_provider: ^2.1.2
-  pdf: ^3.10.7
-  printing: ^5.12.0
-  share_plus: ^7.2.1
-  intl: ^0.19.0
-  cupertino_icons: ^1.0.2
-  flutter_slidable: ^3.0.1
-  google_fonts: ^6.1.0
-  fl_chart: ^0.66.2
+jobs:
+  build-apk:
+    name: Build APK
+    runs-on: ubuntu-latest
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^3.0.0
-  build_runner: ^2.4.7
-  hive_generator: ^2.0.1
-  riverpod_generator: ^2.3.9
-  flutter_launcher_icons: ^0.13.1
+    defaults:
+      run:
+        working-directory: ci_vb_app
 
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/materials.json
-    - assets/costs.json
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-flutter_icons:
-  android: true
-  ios: false
-  image_path: "assets/icon.png"
-  adaptive_icon_background: "#0D1B2A"
-  adaptive_icon_foreground: "assets/icon_fg.png"
-  min_sdk_android: 21
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: "3.22.0"
+          channel: stable
+          cache: true
+
+      - name: Flutter doctor
+        run: flutter doctor
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Build APK (release)
+        run: flutter build apk --release
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ci-vb-metering-apk
+          path: ci_vb_app/build/app/outputs/flutter-apk/app-release.apk
+          retention-days: 90
