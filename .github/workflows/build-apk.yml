@@ -1,48 +1,55 @@
 name: Build Android APK
 
 on:
-  push:
-    branches: [main, master]
-  pull_request:
-    branches: [main, master]
-  workflow_dispatch:
+push:
+branches: [ main, master ]
+pull_request:
+branches: [ main, master ]
+workflow_dispatch:
 
 jobs:
-  build-apk:
-    name: Build APK
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ci_vb_app
+build-apk:
+name: Build APK
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+```
+defaults:
+  run:
+    working-directory: ci_vb_app
 
-      - name: Set up Java 17
-        uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: 17
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
 
-      - name: Set up Flutter
-        uses: subosito/flutter-action@v2
-        with:
-          flutter-version: '3.22.0'
-          channel: stable
+  - name: Set up Java 17
+    uses: actions/setup-java@v4
+    with:
+      distribution: temurin
+      java-version: 17
 
-      - name: Install dependencies
-        run: flutter pub get
+  - name: Set up Flutter
+    uses: subosito/flutter-action@v2
+    with:
+      flutter-version: "3.22.0"
+      channel: stable
+      cache: true
 
-      - name: Run tests
-        run: flutter test test/calculator_engine_test.dart
+  - name: Flutter doctor
+    run: flutter doctor
 
-      - name: Build APK (release)
-        run: flutter build apk --release
+  - name: Install dependencies
+    run: flutter pub get
 
-      - name: Upload APK artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: ci-vb-metering-apk
-          path: ci_vb_app/build/app/outputs/flutter-apk/app-release.apk
-          retention-days: 90
+  - name: Run tests
+    run: flutter test test/calculator_engine_test.dart
+
+  - name: Build APK (release)
+    run: flutter build apk --release
+
+  - name: Upload APK artifact
+    uses: actions/upload-artifact@v4
+    with:
+      name: ci-vb-metering-apk
+      path: ci_vb_app/build/app/outputs/flutter-apk/app-release.apk
+      retention-days: 90
+```
